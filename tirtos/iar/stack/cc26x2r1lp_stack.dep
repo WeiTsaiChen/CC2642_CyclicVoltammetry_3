@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>2</fileVersion>
+    <fileChecksum>2586050477</fileChecksum>
+    <configuration>
+        <name>FlashROM_Library</name>
+        <outputs>
+            <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_trng.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_timers.pbi</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\gap.o</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\hal_assert.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\rf_prop_cmd.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\kernel\tirtos\packages\ti\sysbios\knl\package\package.defs.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\linkdb.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\l2cap.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_gpio.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\Types__epilogue.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\hal_assert.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\target\_common\TRNGCC26XX.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\target\_common\cc26xx\_hal_types.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\rom_init.pbi</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\hci_ext.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\hal_assert.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\controller\cc26xx\inc\ll_user_config.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\drivers\dpl\ClockP.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_aux_smph.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\npi.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_vims.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\kernel\tirtos\packages\ti\sysbios\knl\Clock.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\drivers\utils\List.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Exe\cc26x2r1lp_stack_FlashROM_Library.a</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\Types__prologue.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\rom\rom_jt.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\gattservapp_util.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\kernel\tirtos\packages\ti\sysbios\interfaces\ITaskSupport.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_list.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_types.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\drivers\dpl\SemaphoreP.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_flash.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\hci_event.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\icall_lite_translation.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\drivers\NVS.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\vims.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\hal_trng_wrapper.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\ddi.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\kernel\tirtos\packages\ti\sysbios\knl\Event__prologue.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\npi\src\inc\npi_ble.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\icall\src\inc\icall_user_config.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\IModule.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\hal_trng_wrapper.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\Assert__prologue.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\rf_ble_cmd.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\gatt_uuid.__cstat.et</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\gap.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\cpu.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\ble_dispatch_JT.o</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_snv_wrapper.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\config\factory_config.opt</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\controller\cc26xx\inc\ll.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\gap_advertiser_internal.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\kernel\tirtos\packages\ti\sysbios\interfaces\ITimer.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\common_rom_init.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\icall\inc\icall_ble_apimsg.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\gattservapp_util.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_rfc_rat.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_snv_wrapper.o</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_clock.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\kernel\tirtos\packages\ti\sysbios\knl\Task__prologue.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\kernel\tirtos\packages\ti\sysbios\knl\Task__epilogue.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\rom\map_direct.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\trng.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\drivers\rf\RF.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\icall\inc\ble_user_config.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_pwrmgr.pbi</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_icall_ble.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\aon_ioc.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_list.pbi</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_icall_ble.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\kernel\tirtos\packages\ti\sysbios\knl\Task.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_nvic.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_adi.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\onboard.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\gatt.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\icall_startup.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\IHeap.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_snv_wrapper.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\drivers\cryptoutils\ecc\ECCParams.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_aon_ioc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\uart.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_chip_def.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\hal_flash_wrapper.pbi</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\ble_user_config.pbi</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\common_rom_init.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\hci_tl.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\kernel\tirtos\packages\ti\sysbios\knl\Queue.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\kernel\tirtos\packages\iar\targets\arm\std.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\controller\cc26xx\inc\ll_timer_drift.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_memory_icall.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\sm.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\Assert__epilogue.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\kernel\tirtos\packages\ti\sysbios\knl\Swi.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\controller\cc26xx\inc\ll_enc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\kernel\tirtos\packages\ti\sysbios\knl\Event.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\controller\cc26xx\inc\ll_ae.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\icall_lite_translation.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_ccfg.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\npi.pbi</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_clock.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\Diags__epilogue.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\IGateProvider.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\IInstance.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\interrupt.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\prcm.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\gapbondmgr.pbi</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_icall_ble.o</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_bufmgr.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\linkdb_internal.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_adi_3_refsys.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\gatt_profile_uuid.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_prcm.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\hal_trng_wrapper.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\att.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\rf_mailbox.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\common_rom_init.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\systick.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\drivers\cryptoutils\cryptokey\CryptoKey.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\hal_flash_wrapper.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\icall\src\inc\icall.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\pwr_ctrl.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\debug.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\icall\inc\ble_dispatch_lite.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\gpio.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_pwrmgr.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_sysctl.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\limits.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\sm_ecc.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\sys_ctrl.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$PROJ_DIR$\defines\cc26x2r1lp_stack_FlashROM_Library.opt</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\controller\cc26xx\inc\ble.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_adi_2_refsys.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\common\cc26xx\icall_startup.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\gap_internal.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\rom\agama_r1\rom_init.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\config\build_components.opt</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\common\cc26xx\onboard.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\inc\osal_timers.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_bufmgr.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\Log.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\common\osal_timers.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_cpu_scs.h</file>
+            <file>$PROJ_DIR$\..\..\build_config.opt</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\controller\cc26xx\inc\ll_scheduler.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\icall\stack\ble_user_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\mcu\cc26xx\osal_snv_wrapper.c</file>
+            <file>$PROJ_DIR$\..\..\..\src\stack\osal_icall_ble.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\kernel\tirtos\packages\ti\sysbios\knl\package\Task_SupportProxy.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\sm_ecc.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\flash.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\npi.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\services\src\nv\nvintf.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\hal_flash_wrapper.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\rom\agama_r1\common_rom_init.c</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\icall_lite_translation.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\services\src\nv\cc26xx\nvoctp.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\common\cc26xx\onboard.c</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\gattservapp_util.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\package\package.defs.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\gapbondmgr.o</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_list.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\gap_scanner.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\ble_dispatch_lite.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\Text.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\controller\cc26xx\inc\ll_wl.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_ints.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\Log__prologue.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\Error__prologue.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\DeviceFamily.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\ble_dispatch_lite.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\gap_scanner_internal.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_ddi_0_osc.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\ble_user_config.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\Memory.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_timers.o</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\rom_init.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\rf_common_cmd.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_clock.pbi</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_memory_icall.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\Error__epilogue.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_timers.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\controller\cc26xx\inc\ll_common.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_cbtimer.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_ioc.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\icall\inc\icall_api_idx.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_aon_pmctl.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\controller\cc26xx\inc\ll_privacy.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_pwrmgr.o</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_cbtimer.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\Diags__prologue.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\inc\hal_drivers.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\common\cc26xx\util.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\hci_data.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\ioc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\common\cc26xx\npi\stack\npi.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_rfc_dbell.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\gatt_uuid.o</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\sm_ecc.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_ddi.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\Log__epilogue.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\kernel\tirtos\packages\ti\sysbios\interfaces\package\package.defs.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\inc\osal_tasks.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\icall\inc\icall_ble_api.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\target\_common\hal_types.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\gap.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\Error.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\kernel\tirtos\packages\ti\sysbios\knl\Event__epilogue.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_uart.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\gatt_uuid.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\gapbondmgr_internal.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\adi.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\rom.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_fcfg1.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\ecc_rom.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\icall\src\inc\icall_jt.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\ble_dispatch_JT.pbi</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\gapbondmgr.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\driverlib\osc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\package\Memory_HeapProxy.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\gap.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\icall_startup.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\controller\cc26xx\inc\ll_config.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\gap_advertiser.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\controller\cc26xx\inc\ll_rat.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\ble_dispatch_lite.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_rfc_pwr.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\gap_initiator.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\ble_dispatch_JT.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\Main.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\onboard.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\kernel\tirtos\packages\ti\sysbios\knl\package\Clock_TimerProxy.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_aon_rtc.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\onboard.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\xdc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\devices\cc13x2_cc26x2\inc\hw_memmap.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\rom_init.o</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\ble_user_config.o</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_memory_icall.pbi</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\icall\src\inc\icall_lite_translation.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_bufmgr.pbi</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\icall_startup.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\Diags.h</file>
+            <file>$PROJ_DIR$\FlashROM_Library\Obj\osal_cbtimer.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\package\Main_Module_GateProxy.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\bcomdef.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\Types.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\runtime\Assert.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\xdctools_3_51_01_18_core\packages\xdc\std.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\hci.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\inc\hal_key.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\target\_common\cc26xx\mb.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\target\_common\cc26xx\rf_hal.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\common\hal_assert.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\inc\hal_board.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\inc\hal_sleep.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\inc\hal_timer.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\target\_common\hal_mcu.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\target\_common\hal_board_cfg.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\inc\hal_defs.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\target\_common\hal_flash_wrapper.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\inc\hal_assert.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\inc\osal_snv.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\target\_common\hal_trng_wrapper.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\icall\src\icall_lite_translation.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\common\osal_cbtimer.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\inc\osal_cbtimer.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\common\osal_list.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\inc\osal_memory.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\target\_common\hal_trng_wrapper.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\common\cc26xx\npi\stack\npi.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\host\sm_ecc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\gapbondmgr.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\common\osal.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\gattservapp.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\gapgattserver.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\host\gapbondmgr.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\icall\stack\ble_dispatch_JT.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\inc\osal.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\common\osal_bufmgr.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\common\osal_clock.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\inc\osal_clock.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\host\gattservapp_util.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\host\gap.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\inc\osal_bufmgr.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\inc\osal_list.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\common\osal_memory_icall.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\common\osal_pwrmgr.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\inc\gatt_uuid.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\host\gatt_uuid.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\icall\inc\ble_dispatch.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\icall\stack\ble_dispatch_lite.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\inc\comdef.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\inc\osal_pwrmgr.h</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>IARCHIVE</name>
+                    <file> 25</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\common\cc26xx\icall_startup.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 237</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 258</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 81</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 219 13 172 199 77 64 105 114 142 27 66 130 95 83 133 278 276</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 114 13 95 27 172 199 105 77 219 130 142 64 66 133 278 83 276</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\rom\agama_r1\rom_init.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 190</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 252</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 14</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 262 309 219 13 172 199 77 64 105 114 142 276 32 88 27 66 150 141 251 180 138 122 76 86 186 242 120 201 248 229 113 132 50 155 228 131 145 234 107 214 40 20 115 72 227 223 78 38 22 274 9 127 87 135 163 34 209 198 130 95 83 133 278 272 295 139 285 151 310 301 283 92 266 54 208 35 286 67 1 268 211 269 238 18 69 43 85 128 165 265 0 94 68 19 33 24 183 191 125 226 136 5 47 307 196 157 230 7 8 124 80 291 305 236 98 103 144 179 147 302 119 55 239 185 176 243 101 96 240 60 202</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 131 144 276 87 98 142 54 268 114 32 72 113 172 251 83 183 262 179 310 7 101 88 295 242 50 201 214 22 180 130 198 291 239 202 309 13 122 248 40 155 228 135 278 199 151 307 125 269 238 236 283 92 124 119 243 96 105 66 274 86 120 115 38 76 145 107 132 223 219 9 127 163 77 35 265 28 0 226 103 27 150 285 301 286 138 196 230 8 80 305 147 302 55 185 68 240 64 141 272 186 229 234 227 20 78 209 34 95 133 139 266 208 1 43 165 128 33 136 191 67 211 18 69 85 94 19 24 5 47 157 176 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\common\osal_timers.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 195</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 189</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 2</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 309 219 13 172 199 77 64 105 114 142 276 150 141 32 88 251 180 138 122 76 86 186 242 120 201 248 229 113 132 50 155 228 131 145 234 107 214 40 20 115 72 227 223 78 38 22 274 9 127 87 135 163 34 209 198 130 95 83 133 278 272 295 139 285 151 273 271 275 298 231</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 142 251 77 172 186 13 209 278 231 132 50 229 309 273 276 114 272 138 201 227 180 115 228 248 40 76 113 32 34 83 130 295 199 105 141 122 234 20 78 9 135 271 150 151 298 219 64 274 86 242 120 131 38 88 155 145 72 107 214 223 22 127 87 163 198 95 133 139 285 275</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\icall\stack\ble_user_config.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 187</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 253</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 90</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 219 13 172 199 77 64 105 114 142 196 68 19 0 83 33 24 183 191 125 226 136 5 47 269 295 139 309 276 285 151 130 95 133 278 54 262 157 18 69 43 85 128 165 265 94 307 8</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 219 191 114 68 69 13 54 19 47 199 172 130 295 8 105 269 278 24 5 0 125 309 77 83 94 196 18 307 142 64 157 33 183 151 276 85 226 136 139 285 95 133 262 43 165 128 265 28</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\mcu\cc26xx\osal_snv_wrapper.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 52</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 61</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 84</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 43 95 199 77 64 105 114 83 133 269 219 13 172 142 278 276 85 128 165 265 0 94 279 275 274 76 180 32 88 9 251 127 132 113 50 155 228 87 223 135 163 34 201 229 209 198 130 169 37</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 113 278 199 142 77 209 180 132 114 276 219 251 76 32 172 0 165 95 83 105 128 50 223 9 228 279 169 269 85 133 64 265 28 275 274 135 155 34 229 198 37 43 13 94 127 87 163 130 88 201</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\src\stack\osal_icall_ble.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 74</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 71</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 130 142 172 199 77 64 105 114 95 83 133 278 219 13 276 274 76 180 32 88 9 251 127 132 113 50 155 228 87 223 135 163 34 201 229 209 198 295 139 309 285 151 217 279 275 54 262 283 8 236 98 266 103 269 144 179 238 18 69 43 85 128 165 265 0 94 68 19 33 24 183 191 125 226 136 5 47 307 196 157 225 80 124 92 208 35 291 289 231 256 134 305 58 16 292 7 119 239 176 243 121 301 27 66</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 76 199 142 9 219 172 0 289 50 275 278 85 47 262 283 134 113 223 180 32 228 130 251 269 19 125 80 217 225 105 83 77 209 132 309 274 98 179 18 191 295 54 236 92 307 95 114 276 13 135 155 34 229 198 151 238 196 69 68 94 24 5 157 305 239 279 8 291 231 256 64 133 127 87 163 88 201 139 285 103 266 144 43 165 128 265 28 33 183 226 136 35 16 7 243 121 66 124 208 58 292 119 176 301 27</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\rom\agama_r1\common_rom_init.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 91</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 126</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 57</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\common\cc26xx\onboard.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 79</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 246</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 249</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 262 309 219 13 172 199 77 64 105 114 142 276 150 141 32 88 251 180 138 122 76 86 186 242 120 201 248 229 113 132 50 155 228 131 145 234 107 214 40 20 115 72 227 223 78 38 22 274 9 127 87 135 163 34 209 198 130 95 83 133 278 272 295 139 285 151 275 267 271</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 88 142 201 223 9 113 145 214 132 32 228 77 64 86 38 50 163 267 219 274 180 120 115 76 251 107 127 172 295 122 242 248 131 40 155 72 22 87 130 198 135 95 133 285 276 150 275 309 13 199 105 114 141 272 138 186 229 234 227 20 78 209 34 139 278 271 262 83 151</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\common\hal_assert.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 17</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 4</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 11</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 278 219 13 172 199 77 64 105 114 142 276 271 275 274 76 180 32 88 9 251 127 132 113 50 155 228 87 223 135 163 34 201 229 209 198 130 95 83 133 150 141 138 122 86 186 242 120 248 131 145 234 107 214 40 20 115 72 227 78 38 22 272 295 139 309 285 151</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 219 251 76 32 172 295 248 276 209 180 132 113 122 40 201 150 275 142 50 223 9 228 83 77 242 131 234 78 271 64 274 135 155 34 229 198 278 199 86 120 115 38 227 20 285 13 105 114 127 87 163 130 88 95 133 141 272 138 186 22 139 145 72 107 214 309 151</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\target\_common\hal_flash_wrapper.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 129</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 166</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 89</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 271 275 274 172 199 77 64 105 114 276 219 13 142 76 180 32 88 9 251 127 132 113 50 155 228 87 223 135 163 34 201 229 209 198 130 95 83 133 278</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 278 180 132 155 172 199 76 228 87 130 114 13 142 113 163 276 219 9 127 105 50 32 223 251 275 274 135 209 77 64 88 34 229 198 83 271 201 95 133</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\hal\src\target\_common\hal_trng_wrapper.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 45</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 123</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 39</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 32 172 199 77 64 105 114 142 88 138 286 219 13 67 1 251 180 132 113 76 50 155 228</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 105 76 13 113 251 286 142 77 114 32 172 1 228 138 88 199 64 219 67 180 50 132 155</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\icall\src\icall_lite_translation.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 104</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 168</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 36</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 295 139 199 77 64 105 114 309 219 13 172 142 276 285 151 130 95 83 133 278 256</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 13 77 151 276 142 199 256 309 130 64 172 295 139 285 105 114 219 95 133 278 83</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\common\osal_cbtimer.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 197</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 260</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 204</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 295 139 199 77 64 105 114 309 219 13 172 142 276 285 151 130 95 83 133 278 217 274 76 180 32 88 9 251 127 132 113 50 155 228 87 223 135 163 34 201 229 209 198 283 262</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 285 133 32 95 9 309 276 180 142 229 228 251 105 219 135 132 172 274 139 199 114 77 76 113 209 34 217 283 151 130 64 13 278 83 127 87 163 88 295 50 155 223 201 198 262</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\common\osal_list.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 175</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 31</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 73</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 302 309 219 13 172 199 77 64 105 114 142 276</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 219 309 77 64 13 172 199 302 276 142 105 114</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\common\cc26xx\npi\stack\npi.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 164</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 21</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 108</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 219 13 172 199 77 64 105 114 142 42 295 139 309 276 285 151 130 95 83 133 278 210 262</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 309 77 64 262 142 210 151 219 172 83 295 42 13 199 105 114 130 278 276 139 285 95 133</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\host\sm_ecc.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 213</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 162</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 140</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 262 309 219 13 172 199 77 64 105 114 142 276 295 139 285 151 130 95 83 133 278 266 54 98 27 66</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 199 172 139 105 276 278 27 266 309 13 114 285 83 77 295 98 219 142 64 151 130 95 133 262 54 66</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\common\osal.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 255</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 15</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 106</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 226 199 77 64 105 114 83 136 309 219 13 172 142 276 271 275 274 76 180 32 88 9 251 127 132 113 50 155 228 87 223 135 163 34 201 229 209 198 130 95 133 278 295 139 285 151 217 310 298 150 141 138 122 86 186 242 120 248 131 145 234 107 214 40 20 115 72 227 78 38 22 272 206 231</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 64 248 32 87 251 201 214 142 228 150 219 180 130 88 132 172 217 231 83 77 278 95 133 139 199 122 40 72 113 271 310 136 276 9 127 163 295 242 131 309 285 298 206 105 114 13 275 274 76 135 209 50 155 223 34 229 198 86 120 115 38 145 107 226 151 141 272 138 186 234 227 20 78 22</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\host\gapbondmgr.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 233</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 116</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 262 309 219 13 172 199 77 64 105 114 142 276 295 139 285 151 130 95 83 133 278 279 275 274 76 180 32 88 9 251 127 132 113 50 155 228 87 223 135 163 34 201 229 209 198 101 196 68 19 0 33 24 183 191 125 226 136 5 47 269 54 157 202 179 238 18 69 43 85 128 165 265 94 307 8 98 266 7 119 236 103 144 147 80 124 305 291 292 289 225 27 66</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 142 201 262 309 87 251 172 305 77 228 191 269 202 219 180 130 88 132 0 226 83 95 179 119 289 64 199 278 32 54 19 47 125 43 165 128 266 98 238 279 147 291 27 151 133 276 9 127 163 113 24 5 136 307 265 28 8 295 101 7 236 80 292 225 13 105 114 139 285 275 274 76 135 209 50 155 223 34 229 198 196 68 157 33 183 18 69 85 94 103 66 144 124</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\icall\stack\ble_dispatch_JT.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 244</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 232</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 279 219 13 172 199 77 64 105 114 142 275 274 276 76 180 32 88 9 251 127 132 113 50 155 228 87 223 135 163 34 201 229 209 198 130 95 83 133 278 301 286 67 1 98 262 309 295 139 285 151 266 54 236 103 269 144 179 238 18 69 43 85 128 165 265 0 94 68 19 33 24 183 191 125 226 136 5 47 307 196 157 80 124 8 305 92 208 35 7 210 291 292 289 58 16 119 239 176 243 121 27 66 134 256</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 251 32 179 142 133 54 307 135 95 276 98 219 199 33 191 295 92 275 274 172 132 151 43 165 128 136 292 256 9 88 201 228 67 262 309 196 269 125 119 301 80 210 58 77 64 76 113 209 180 50 266 130 144 238 278 265 28 83 183 0 226 8 236 291 27 279 286 305 7 289 16 134 103 13 105 114 127 87 163 155 223 34 229 198 1 139 285 18 69 68 85 94 19 24 5 47 157 124 208 176 35 239 243 121 66</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\common\osal_bufmgr.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 152</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 118</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 257</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 295 139 199 77 64 105 114 309 219 13 172 142 276 285 151 130 95 83 133 278 150 141 32 88 251 180 138 122 76 86 186 242 120 201 248 229 113 132 50 155 228 131 145 234 107 214 40 20 115 72 227 223 78 38 22 274 9 127 87 135 163 34 209 198 272 301</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 142 132 32 285 133 50 95 172 251 223 276 186 155 228 9 76 105 219 272 138 201 227 180 145 229 86 135 113 301 139 199 114 77 309 141 122 234 88 72 40 214 209 150 151 130 64 13 278 83 274 295 242 120 248 131 115 38 107 20 78 22 127 87 163 34 198</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\common\osal_clock.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 109</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 62</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 192</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 309 219 13 172 199 77 64 105 114 142 276 271 275 274 76 180 32 88 9 251 127 132 113 50 155 228 87 223 135 163 34 201 229 209 198 130 95 83 133 278 150 141 138 122 86 186 242 120 248 131 145 234 107 214 40 20 115 72 227 78 38 22 272 295 139 285 151 298</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 228 138 251 227 105 87 201 132 172 180 130 88 142 219 272 298 199 278 32 95 133 186 248 20 285 150 276 13 114 9 127 163 113 77 141 76 122 229 234 50 40 78 271 295 64 275 274 135 209 155 223 34 198 83 86 242 120 131 115 38 22 139 309 145 72 107 214 151</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\host\gattservapp_util.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 29</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 171</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 59</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 207 142 23 265 0 199 77 64 105 114 83 94 172 250 263 26 173 10 112 6 264 46 245 44 82 221 182 194 188 235 111 261 259 205 110 99 153 181 178 215 56 216 93 100 247 102 41 75 63 30 161 65 222 218 58 262 309 219 13 276 16 266 295 139 285 151 130 95 133 278 54 92 208 35 292 7 196 68 19 33 24 183 191 125 226 136 5 47 269 157 119 289 236 98 103 144 179 238 18 69 43 85 128 165 307 8 305 239 176 243 80 124 121 291 279 275 274 76 180 32 88 9 251 127 132 113 50 155 228 87 223 135 163 34 201 229 209 198 301 27 66 12 200</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 94 113 245 32 44 221 205 250 27 127 112 110 262 95 251 261 263 82 30 236 13 219 157 172 153 199 265 93 266 291 309 151 18 102 100 105 83 77 173 188 194 216 6 222 23 119 98 276 35 68 24 196 269 278 132 264 56 0 114 10 46 99 182 111 181 259 75 63 200 292 8 176 305 301 54 130 142 133 295 5 191 85 9 163 180 66 218 247 28 64 26 235 178 215 41 161 65 58 12 16 92 7 289 239 243 80 121 279 103 139 285 208 19 47 125 144 69 87 88 201 228 207 33 183 226 136 179 238 43 307 165 128 124 275 274 76 135 209 50 155 223 34 229 198</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\host\gap.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 220</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 3</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 49</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 262 309 219 13 172 199 77 64 105 114 142 276 279 275 274 76 180 32 88 9 251 127 132 113 50 155 228 87 223 135 163 34 201 229 209 198 130 95 83 133 278 236 295 139 285 151 98 266 54 103 269 144 179 238 18 69 43 85 128 165 265 0 94 68 19 33 24 183 191 125 226 136 5 47 307 196 157 225 289 147 8 55 185 176 27 66</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 295 32 269 0 236 54 55 219 172 132 285 179 278 262 105 180 251 142 95 133 18 191 176 289 27 77 64 87 130 88 201 228 85 19 47 125 279 98 225 147 185 309 276 13 199 114 9 127 163 113 103 139 238 196 69 68 94 24 5 157 266 275 274 76 135 209 50 155 223 34 229 198 83 151 144 43 307 165 128 265 28 33 183 226 136 8 66</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\common\osal_memory_icall.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 193</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 97</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 254</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 309 219 13 172 199 77 64 105 114 142 276 295 139 285 151 130 95 83 133 278 231</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 172 133 105 130 231 199 285 276 13 114 309 95 219 295 142 77 64 151 139 278 83</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\osal\src\common\osal_pwrmgr.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 137</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 203</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 70</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 309 219 13 172 199 77 64 105 114 142 276 150 141 32 88 251 180 138 122 76 86 186 242 120 201 248 229 113 132 50 155 228 131 145 234 107 214 40 20 115 72 227 223 78 38 22 274 9 127 87 135 163 34 209 198 130 95 83 133 278 272 295 139 285 151 217 310 231</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 78 9 251 132 105 234 40 122 172 231 141 32 201 276 113 142 151 199 76 229 50 248 227 20 135 180 139 295 13 114 272 138 186 115 228 209 34 77 150 217 310 219 64 274 86 242 120 131 38 88 155 145 72 107 214 223 22 127 87 163 130 198 95 133 285 309 278 83</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\host\gatt_uuid.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 48</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 212</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 224</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 309 219 13 172 199 77 64 105 114 142 276 295 139 285 151 130 95 83 133 278 80 262 124 8 305</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 105 276 172 139 199 278 80 13 114 285 83 77 295 309 262 305 219 142 64 151 130 95 133 124 8</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\source\ti\ble5stack\icall\stack\ble_dispatch_lite.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 177</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 184</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 241</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 149 53 156 279 219 13 172 199 77 64 105 114 142 275 274 276 76 180 32 88 9 251 127 132 113 50 155 228 87 223 135 163 34 201 229 209 198 130 95 83 133 278 301 307 134 98 262 309 295 139 285 151 266 54 236 103 269 144 179 238 18 69 43 85 128 165 265 0 94 68 19 33 24 183 191 125 226 136 5 47 196 157 80 124 8 305 291 289 58 16 92 208 35 292 7 119 239 176 243 121 27 66 256</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 276 251 201 98 262 228 309 196 269 142 27 9 88 132 219 95 172 199 125 278 236 134 275 274 32 135 133 291 151 54 179 43 165 128 33 136 191 266 301 256 77 64 76 113 209 180 80 58 130 144 238 307 265 28 83 183 0 226 124 119 35 295 279 13 105 114 127 87 163 50 155 223 34 229 198 305 289 139 285 103 18 69 68 85 94 19 24 5 47 157 8 292 176 16 92 7 239 243 121 208 66</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+</project>
